@@ -12,7 +12,7 @@ The AI model relies on a bunch of images of mushrooms to validate if the request
 
 ## Running this project
 
-1. Add steps for running this project.
+1. Add steps for running this project. 
 2. Make sure to include any required libraries that need to be installed for your project to run.
 
 [View a video explanation here](video link)
