@@ -24,6 +24,6 @@ curl -L -o ~/Downloads/mushrooms-images-classification-215.zip\
   --labels=$DATASET/labels.txt \
   --input_blob=input_0 \
   --output_blob=output_0 \
-  $DATASET/test/"mushroom file"/"requested_image" $DATASET/output.png
+  $DATASET/test/almond_mushroom/am1.png $DATASET/output.png
 
 [View a video explanation here](video link)
